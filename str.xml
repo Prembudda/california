@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- 
+	History: STR system data list
+-->
+<STRData>
+	<DataList name="country">
+		<data id="1">
+			<fullName>CHINA</fullName>
+			<code>CN</code>
+		</data>
+		<data id="2">
+			<fullName>AUSTRALIA</fullName>
+			<code>AU</code>
+		</data>
+		<data id="3">
+			<fullName>CANADA</fullName>
+			<code>CA</code>
+		</data>
+		<data id="4">
+			<fullName>FRANCE</fullName>
+			<code>FR</code>
+		</data>
+		<data id="5">
+			<fullName>GERMANY</fullName>
+			<code>DE</code>
+		</data>
+		<data id="6">
+			<fullName>HONG KONG</fullName>
+			<code>HK</code>
+		</data>
+		<data id="7">
+			<fullName>JAPAN</fullName>
+			<code>JP</code>
+		</data>
+		<data id="8">
+			<fullName>KOREA</fullName>
+			<code>KR</code>
+		</data>
+		<data id="9">
+			<fullName>MACAO</fullName>
+			<code>MO</code>
+		</data>
+		<data id="10">
+			<fullName>MALAYSIA</fullName>
+			<code>MY</code>
+		</data>
+		<data id="11">
+			<fullName>MEXICO</fullName>
+			<code>MX</code>
+		</data>
+		<data id="12">
+			<fullName>TAIWAN</fullName>
+			<code>TW</code>
+		</data>
+		<data id="13">
+			<fullName>UNITED KINGDOM</fullName>
+			<code>GB</code>
+		</data>
+		<data id="14">
+			<fullName>UNITED STATES</fullName>
+			<code>US</code>
+		</data>
+		<data id="15">
+			<fullName>BRAZIL</fullName>
+			<code>BR</code>
+		</data>
+		<data id="16">
+			<fullName>MALAYSIA</fullName>
+			<code>MY</code>
+		</data>
+		<data id="17">
+			<fullName>RUSSIA</fullName>
+			<code>RU</code>
+		</data>
+		<data id="18">
+			<fullName>INDIA</fullName>
+			<code>IN</code>
+		</data>
+	</DataList>	   
+	<DataList name="port">
+		<data id="1">
+			<fullName>Victoria</fullName>
+			<code>CAVIC</code>
+			<view>1</view>
+		</data>
+		<data id="2">
+			<fullName>Votochniy</fullName>
+			<code>RUVYP</code>
+			<view>1</view>
+		</data>
+		<data id="3">
+			<fullName>Chiba</fullName>
+			<code>JPCHB</code>
+			<view>1</view>
+		</data>
+		<data id="4">
+			<fullName>Hiroshima</fullName>
+			<code>JPHIJ</code>
+			<view>1</view>
+		</data>
+		<data id="5">
+			<fullName>Kagoshima</fullName>
+			<code>JPKOJ</code>
+			<view>1</view>
+		</data>
+		<data id="6">
+			<fullName>Kobe</fullName>
+			<code>JPUKB</code>
+			<view>1</view>
+		</data>
+		<data id="7">
+			<fullName>Tokuyama</fullName>
+			<code>PTKY</code>
+			<view>1</view>
+		</data>
+		<data id="8">
+			<fullName>Sen Dai</fullName>
+			<code>JPSEN</code>
+			<view>1</view>
+		</data>
+		<data id="9">
+			<fullName>Beihai</fullName>
+			<code>CNBEH</code>
+			<view>1</view>
+		</data>
+		<data id="10">
+			<fullName>Jiang Men</fullName>
+			<code>CNJGM</code>
+			<view>1</view>
+		</data>
+		<data id="11">
+			<fullName>Nanjing</fullName>
+			<code>CNNKG</code>
+			<view>1</view>
+		</data>
+		<data id="12">
+			<fullName>Hualien</fullName>
+			<code>TWHUN</code>
+			<view>1</view>
+		</data>
+		<data id="13">
+			<fullName>Taichung</fullName>
+			<code>TWTXG</code>
+			<view>1</view>
+		</data>
+		<data id="14">
+			<fullName>Bombay</fullName>
+			<code>INBOM</code>
+			<view>1</view>
+		</data>
+		<data id="15">
+			<fullName>Calcutta</fullName>
+			<code>INCCU</code>
+			<view>1</view>
+		</data>
+		<data id="16">
+			<fullName>Cochin</fullName>
+			<code>INCOK</code>
+			<view>1</view>
+		</data>
+		<data id="17">
+			<fullName>Kota</fullName>
+			<code>INKTU</code>
+			<view>1</view>
+		</data>
+		<data id="18">
+			<fullName>Madras</fullName>
+			<code>INMAA</code>
+			<view>1</view>
+		</data>
+		<data id="19">
+			<fullName>Sandakan</fullName>
+			<code>MYSDK</code>
+			<view>1</view>
+		</data>
+		<data id="20">
+			<fullName>Sibu</fullName>
+			<code>MYSBW</code>
+			<view>1</view>
+		</data>
+		<data id="21">
+			<fullName>Kota Kinabalu</fullName>
+			<code>MYBKI</code>
+			<view>1</view>
+		</data>
+		<data id="22">
+			<fullName>Amsterdam</fullName>
+			<code>NLAMS</code>
+			<view>1</view>
+		</data>
+		<data id="23">
+			<fullName>Rotterdam</fullName>
+			<code>NLRTM</code>
+			<view>1</view>
+		</data>
+		<data id="24">
+			<fullName>Antwerp</fullName>
+			<code>BEANR</code>
+			<view>1</view>
+		</data>
+		<data id="25">
+			<fullName>Fos</fullName>
+			<code>FRFOS</code>
+			<view>1</view>
+		</data>
+		<data id="26">
+			<fullName>Marseilles</fullName>
+			<code>FRMRS</code>
+			<view>1</view>
+		</data>
+		<data id="27">
+			<fullName>Barcelona</fullName>
+			<code>ESBCN</code>
+			<view>1</view>
+		</data>
+		<data id="28">
+			<fullName>Ceuta</fullName>
+			<code>ESCEU</code>
+			<view>1</view>
+		</data>
+		<data id="29">
+			<fullName>Cadiz</fullName>
+			<code>ESCEU</code>
+			<view>1</view>
+		</data>
+		<data id="30">
+			<fullName>Melilla</fullName>
+			<code>ESMLN</code>
+			<view>1</view>
+		</data>
+		<data id="31">
+			<fullName>Naples</fullName>
+			<code>ITNAP</code>
+			<view>1</view>
+		</data>
+		<data id="32">
+			<fullName>Trieste</fullName>
+			<code>ITTRS</code>
+			<view>1</view>
+		</data>
+		<data id="33">
+			<fullName>Genoa</fullName>
+			<code>ITGOA</code>
+			<view>1</view>
+		</data>
+		<data id="34">
+			<fullName>La Spezia</fullName>
+			<code>ITSPE</code>
+			<view>1</view>
+		</data>
+		<data id="35">
+			<fullName>Venice</fullName>
+			<code>ITVCE</code>
+			<view>1</view>
+		</data>
+		<data id="36">
+			<fullName>Basle</fullName>
+			<code>CHBSL</code>
+			<view>1</view>
+		</data>
+		<data id="37">
+			<fullName>Birmingham</fullName>
+			<code>GBBHX</code>
+			<view>1</view>
+		</data>
+		<data id="38">
+			<fullName>Leith</fullName>
+			<code>GBLEI</code>
+			<view>1</view>
+		</data>
+		<data id="39">
+			<fullName>Liverpool</fullName>
+			<code>GBLIV</code>
+			<view>1</view>
+		</data>
+		<data id="40">
+			<fullName>London</fullName>
+			<code>GBLON</code>
+			<view>1</view>
+		</data>
+		<data id="41">
+			<fullName>Manchester</fullName>
+			<code>GBMNC</code>
+			<view>1</view>
+		</data>
+		<data id="42">
+			<fullName>Southampton</fullName>
+			<code>GBSOU</code>
+			<view>1</view>
+		</data>
+		<data id="43">
+			<fullName>Thames</fullName>
+			<code>GBTHP</code>
+			<view>1</view>
+		</data>
+		<data id="44">
+			<fullName>Gothenburg</fullName>
+			<code>SEGOT</code>
+			<view>1</view>
+		</data>
+		<data id="45">
+			<fullName>Helsingbour</fullName>
+			<code>SEHEL</code>
+			<view>1</view>
+		</data>
+		<data id="46">
+			<fullName>Malmo</fullName>
+			<code>SEMMA</code>
+			<view>1</view>
+		</data>
+		<data id="47">
+			<fullName>Stockholm</fullName>
+			<code>SESTO</code>
+			<view>1</view>
+		</data>
+		<data id="48">
+			<fullName>Oslo</fullName>
+			<code>NOOSL</code>
+			<view>1</view>
+		</data>
+		<data id="49">
+			<fullName>Bremerhaven</fullName>
+			<code>DEBRV</code>
+			<view>1</view>
+		</data>
+		<data id="50">
+			<fullName>Hamburg</fullName>
+			<code>DEHAM</code>
+			<view>1</view>
+		</data>
+		<data id="51">
+			<fullName>Adelaide</fullName>
+			<code>AUADL</code>
+			<view>1</view>
+		</data>
+		<data id="52">
+			<fullName>Brisbane</fullName>
+			<code>AUBNE</code>
+			<view>1</view>
+		</data>
+		<data id="53">
+			<fullName>Melbourne</fullName>
+			<code>AUMEL</code>
+			<view>1</view>
+		</data>
+		<data id="54">
+			<fullName>Sydney</fullName>
+			<code>AUSYD</code>
+			<view>1</view>
+		</data>
+		<data id="55">
+			<fullName>Auckland</fullName>
+			<code>NZAKL</code>
+			<view>1</view>
+		</data>
+		<data id="56">
+			<fullName>Christchurch</fullName>
+			<code>NZCHC</code>
+			<view>1</view>
+		</data>
+		<data id="57">
+			<fullName>Timaru</fullName>
+			<code>NZTIU</code>
+			<view>1</view>
+		</data>
+		<data id="58">
+			<fullName>Wellington</fullName>
+			<code>NZWLG</code>
+			<view>1</view>
+		</data>
+	</DataList>
+	<DataList name="payment">
+		<data>PREPAID</data>
+		<data>COLLECT</data>
+		<data>INAPPLICABLE</data>
+	</DataList>
+	<DataList name="portCountry">
+		<data>AUSTRALIA</data>
+		<data>BELGIUM</data>		
+		<data>CANADA</data>
+		<data>CHINA</data>
+		<data>FRANCE</data>		
+		<data>GERMANY</data>		
+		<data>INDIA</data>
+		<data>ITALY</data>
+		<data>JAPAN</data>
+		<data>MALAYSIA</data>
+		<data>NETHERLANDS</data>
+		<data>NEW ZEALAND</data>
+		<data>NORWAY</data>
+		<data>RUSSIA</data>
+		<data>SINGAPORE</data>
+		<data>SPAIN</data>
+		<data>SWEDEN</data>
+		<data>SWITZERLAND</data>
+		<data>TAIWAN</data>
+		<data>UNITED KINGDOM</data>
+		<data>UNITED STATES</data>
+	</DataList>
+	<DataList name="agentCode">	
+	  <data id="1">
+			<fullName>ASSOCIATED AIR FREIGHT LTD.</fullName>
+			<code>HK</code>
+	   </data>  
+	  <data id="2">
+			<fullName>COLUMBUS EXPRESS (TAIWAN) LTD.</fullName>
+			<code>TP</code>
+	   </data>
+	  <data id="3">
+			<fullName>COMAO SHIPPING COMPANY LTD.</fullName>
+			<code>SH</code>
+	   </data>
+	  <data id="4">
+			<fullName>DALIAN GREAT BRIDGE CORP.</fullName>
+			<code>DL</code>
+	   </data>
+	  <data id="5">
+			<fullName>G. W. TRANS-WORLD FREIGHT SYSTEM CO.</fullName>
+			<code>NY</code>
+	   </data>
+	  <data id="6">
+			<fullName>GREAT WAY - BEIJING OFFICE</fullName>
+			<code>BJ</code>
+	   </data>
+	  <data id="7">
+			<fullName>GREAT WAY - QINGDAO C_O QINGDAO HAIFA</fullName>
+			<code>QD</code>
+	   </data>
+	   <data id="8">
+			<fullName>GREAT WAY - SHANGHAI</fullName>
+			<code>SH</code>
+	   </data>
+	  <data id="9">
+			<fullName>GREAT WAY - SHENZHEN OFFICE</fullName>
+			<code>SZ</code>
+	   </data>
+	  <data id="10">
+			<fullName>GREAT WAY - TIANJIN OFFICE</fullName>
+			<code>TJ</code>
+	   </data>
+	  <data id="11">
+			<fullName>GREAT WAY - YONG KANG OFFICE</fullName>
+			<code>YK</code>
+	   </data>
+	  <data id="12">
+			<fullName>HENCY TRANSPORTATION INC. (LAX)</fullName>
+			<code>LA</code>
+	   </data>
+	  <data id="13">
+			<fullName>JC TRANS XIAMEN CO.</fullName>
+			<code>XM</code>
+	   </data>
+	  <data id="14">
+			<fullName>MARCO POLO EXPRESS (TAIPEI)</fullName>
+			<code>TP</code>
+	   </data>	 
+	   <data id="15">
+			<fullName>NINGBO CHANGYUN INTL LOGISTIC CO.\, LTD.</fullName>
+			<code>NB</code>
+	   </data> 	 
+	   <data id="16">
+			<fullName>NINGBO HAITIAN INTERNATIONAL FORWARDING CO.\, LTD</fullName>
+			<code>NB</code>
+	   </data>
+	  <data id="17">
+			<fullName>NINGBO HAITONG INTERNATIONAL FREIGHT FORWARDING CO.\, LTD.</fullName>
+			<code>NB</code>
+	   </data>
+	  <data id="18">
+			<fullName>NINGBO TRANSOCEAN INTERNATIONAL FORWARDING AGENCY CO.\, LTD</fullName>
+			<code>NB</code>
+	   </data>
+	  <data id="19">
+			<fullName>QINGDAO ALL WAYS INTERNATIONAL TRANSPORTATION CO.\,LTD.</fullName>
+			<code>QD</code>
+	   </data>
+	  <data id="20">
+			<fullName>SHANGHAI GLORY WAY INTL FORWARDING CO.\, LTD.</fullName>
+			<code>SH</code>
+	   </data> 	  
+	   <data id="21">
+			<fullName>SHANGHAI JULONG ENTERPRISE COMPANY</fullName>
+			<code>SH</code>
+	   </data>
+	   <data id="22">
+			<fullName>SHANGHAI UCH SHIPPING CO.\, LTD</fullName>
+			<code>SH</code>
+	   </data>
+	   <data id="23">
+			<fullName>SHENZHEN LILY</fullName>
+			<code>SZ</code>
+	   </data>
+	   <data id="24">
+			<fullName>XIAMEN GREAT WAY FREIGHT AGENCY CO.\, LTD.</fullName>
+			<code>XM</code>
+	   </data>
+	   <data id="25">
+			<fullName>RICHLONG INTERNATIONAL FORWARDING CO.\,LTD.GUANGZHOU BRANCH</fullName>
+			<code>GZ</code>
+	   </data>
+	    <data id="26">
+			<fullName>BEIJING GREAT WAY</fullName>
+			<code>BJ</code>
+	   </data>
+	  <data id="27">
+			<fullName>NINGBO XYZ INTERNATIONAL CO.LTD</fullName>
+			<code>NB</code>
+	   </data>
+	  <data id="28">
+			<fullName>NINGBO XYZ INTERNATIONAL FORWARDING CO LTD</fullName>
+			<code>NB</code>
+	   </data>	  
+	</DataList>   
+	<DataList name="salesList">
+		<data>JUN SHI</data>
+		<data>PETER GONG</data>		
+		<data>EMILY WU</data>		
+	</DataList>
+	<DataList name="titleList">
+	    <data> </data>
+		<data>ORIGINAL</data>
+		<data>COPY 8 (FOR AGENT)</data>
+		<data>COPY 7 (EXTRA COPY)</data>
+        <data>ORIGINAL 3 (FOR SHIPPER)</data>
+        <data>ORIGINAL 2 (FOR CONSIGNEE)</data>
+        <data>ORIGINAL 1 (FOR ISSUING CARRIER)</data>
+    </DataList>
+
+	<HBNumber>0</HBNumber>	
+</STRData>
